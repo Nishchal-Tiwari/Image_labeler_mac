@@ -1,0 +1,66 @@
+{
+   "data": [
+      {
+         "image": "img_1.jpg",
+         "rectangles": {
+            "cac585f3-36f7-4b26-b5a1-4a6e5a889fa0": {
+               "rect": 21,
+               "coordinates": {
+                  "x_start": 80,
+                  "y_start": 66,
+                  "x_end": 110,
+                  "y_end": 101
+               },
+               "value": "a;dslikfj;alsdkjf",
+               "category": "Number Plate"
+            },
+            "224417f5-4f8c-4d43-8b19-ec353e53e4fa": {
+               "rect": 22,
+               "coordinates": {
+                  "x_start": 198,
+                  "y_start": 201,
+                  "x_end": 217,
+                  "y_end": 220
+               },
+               "value": "dsds",
+               "category": "Number Plate"
+            }
+         },
+         "id": 500505395706275817
+      },
+      {
+         "image": "img_2.jpg",
+         "rectangles": {
+            "ada59767-deb0-4478-98c9-ca33f3ad50ae": {
+               "rect": 29,
+               "coordinates": {
+                  "x_start": 20,
+                  "y_start": 189,
+                  "x_end": 87,
+                  "y_end": 214
+               },
+               "value": "123",
+               "category": "Number Plate"
+            }
+         },
+         "id": 103507848656561052
+      },
+      {
+         "image": "img_3.jpg",
+         "rectangles": {
+            "86d0694e-c48e-4221-a90b-b5943733ae85": {
+               "rect": 27,
+               "coordinates": {
+                  "x_start": 118,
+                  "y_start": 194,
+                  "x_end": 184,
+                  "y_end": 222
+               },
+               "value": "UP16 TC2810",
+               "category": "Number Plate"
+            }
+         },
+         "id": 884417873196193265
+      }
+   ]
+}
